@@ -22,11 +22,13 @@ Install my-project with npm.
     its done enjoy!
 ## Screenshots
 <h3>Home Page</h3>
-![Screenshot (61)](https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/f10eea2b-fb3d-4220-b015-e129d419df3d)
+<img src="https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/f10eea2b-fb3d-4220-b015-e129d419df3d" height="500"width="800">
 <h3>About Page</h3>
-![Screenshot (62)](https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/c9fb56c9-6fce-494b-bb2b-68cc63448e0d)
+<img src="https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/c9fb56c9-6fce-494b-bb2b-68cc63448e0d" height="500"width="800">
+<!-- ![Screenshot (62)](https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/c9fb56c9-6fce-494b-bb2b-68cc63448e0d) -->
 <h3>Weather Page</h3>
-![Screenshot (64)](https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/acd716a6-37ef-4d27-97b4-460f00d246e7)
+<img src="https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/acd716a6-37ef-4d27-97b4-460f00d246e7" height="500"width="800">
+<!-- ![Screenshot (64)](https://github.com/Deadlybhoot/nodejs-Projects/assets/90792669/acd716a6-37ef-4d27-97b4-460f00d246e7) -->
 
 ## Tech Stack
 
